@@ -1,4 +1,3 @@
-
 Sub MyScript()
 
 'ActiveDocument.Tables(1).Cell(1, 3).Range.InsertAfter (ActiveDocument.Tables(2).Cell(1, 1).Range.Text)
